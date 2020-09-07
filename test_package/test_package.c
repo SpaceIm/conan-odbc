@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Type of SQL_CHAR is %s\n", SQL_CHAR);
+    printf("Type of SQL_CHAR is %i\n", SQL_CHAR);
     return 0;
 }
 
